@@ -2,6 +2,6 @@
 
 -   docker docker run lukiita/codeeducation
 
-# Image Link
+# Docker Hub
 
-[link] https://hub.docker.com/r/lukiita/codeeducation
+[link](https://hub.docker.com/r/lukiita/codeeducation)

@@ -1,5 +1,6 @@
 FROM golang AS builder
 WORKDIR /src
+
 COPY hello-world.go .
 RUN go build hello-world.go
 
